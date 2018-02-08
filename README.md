@@ -1,4 +1,4 @@
 # hello-world
-my first github repository
+my first github repositor
 
 here i am commiting to test github branching functionality.
